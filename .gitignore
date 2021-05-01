@@ -3,3 +3,4 @@ Lib/
 Scripts/
 db.sqlite
 pyvenv.cfg
+Include/
